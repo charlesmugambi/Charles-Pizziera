@@ -11,7 +11,7 @@ This is a web site that gives a description of my favourite films
 * Use the live link for the repository 
 
 ## Known Bugs
-The site is static.
+The site is not static.
 ## Technologies/Languages Used
 * html-create and develop the actual webpage content
 * css - Extensively used inorder to customize and restyle the webpages as a whole.
